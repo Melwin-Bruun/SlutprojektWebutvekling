@@ -10,7 +10,7 @@ import landing from '@/components/landing_page.vue'
 export default {
   name: 'Home',
   components: {
-    advice
+    Home
   }
 }
 </script>
